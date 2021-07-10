@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-gm",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "general-magic"
+  ],
+  "description": "A general magic template",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
